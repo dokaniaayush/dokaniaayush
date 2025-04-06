@@ -80,6 +80,15 @@
 
 ## Projects
 
+
+<a href="https://github.com/dokaniaayush/todo-mvvm-app">
+
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dokaniaayush&repo=todo-mvvm-app&theme=highcontrast" />
+
+</a> 
+
 <a href="https://github.com/efermat/efermat.github.io">
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -100,14 +109,7 @@
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dokaniaayush&repo=gopala_sweets_and_snacks&theme=highcontrast" />
 
-</a> 
-<a href="https://github.com/dokaniaayush/chatroom">
-
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dokaniaayush&repo=chatroom&theme=highcontrast" />
-
-</a> 
+</a>
 
 
 
